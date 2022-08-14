@@ -1,10 +1,11 @@
-##Aim:-
+# Hemisphere
+## Aim:-
 To understand basics of react.
 
-##what is purpose of project?
+## what is purpose of project?
 based on user's position, it tells in which hemisphere user lives.
 
-##How to run project?
+## How to run project?
 1. Download the repository.
 2. Open terminal 
 3. Change directory to project directory.
@@ -14,5 +15,5 @@ based on user's position, it tells in which hemisphere user lives.
 6. Give location/Position access.
 7. Project will give user's hemisphere.
 
-##conclusion:-
+## Conclusion:-
 learn about conditional rendering, react class component and react functonal component, react jsx, react constructor and basics of css.
