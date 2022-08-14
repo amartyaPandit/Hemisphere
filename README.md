@@ -9,7 +9,7 @@ based on user's position, it tells in which hemisphere user lives.
 1. Download the repository.
 2. Open terminal 
 3. Change directory to project directory.
-4. Run following command \
+4. Run following command. \
  ###   'npm start'
 5. Project will open in browser    
 6. Give location/Position access.
